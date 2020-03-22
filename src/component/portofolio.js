@@ -14,8 +14,8 @@ class portfolio extends Component {
         <Content>
           <Row>
             <Col>
-              <div className="h-porfolio">
-                <span id="PORFOLIO">PORTFOLIO</span>
+              <div className="h-porfolio" id="PORFOLIO">
+                <span>PORTFOLIO</span>
               </div>
               <div className="box-line">
                 <div className="line-porfolio"></div>
@@ -67,12 +67,12 @@ class portfolio extends Component {
                   hoverable
                   style={{ width: 240 }}
                   cover={
-                    <img alt="example" src={require("../image/lantick.png")} />
+                    <img alt="example" src={require("../image/porfolio.png")} />
                   }
                 >
                   <Meta
-                    title="LandTick"
-                    description="Penjualan tiket online."
+                    title="Portfolio"
+                    description="https://github.com/darmawandoni6/portofolio"
                   />
                 </Card>
               </div>

@@ -26,7 +26,7 @@ class navbar extends Component {
               duration={500}
               style={{ color: "white" }}
             >
-              PORFOLIO
+              &nbsp; PORTFOLIO&nbsp;
             </Link>
           </span>
           &nbsp;&nbsp;
@@ -40,7 +40,7 @@ class navbar extends Component {
               duration={500}
               style={{ color: "white" }}
             >
-              ABOUT
+              &nbsp; ABOUT&nbsp;
             </Link>
           </span>
           &nbsp;&nbsp;
@@ -54,7 +54,7 @@ class navbar extends Component {
               duration={500}
               style={{ color: "white" }}
             >
-              CONTACT
+              &nbsp; CONTACT&nbsp;
             </Link>
           </span>
           &nbsp;&nbsp;
@@ -68,7 +68,7 @@ class navbar extends Component {
               duration={500}
               style={{ color: "white" }}
             >
-              CERTIFICATE
+              &nbsp; CERTIFICATE&nbsp;
             </Link>
           </span>
         </div>
