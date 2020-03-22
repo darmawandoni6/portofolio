@@ -15,7 +15,7 @@ const { Content } = Layout;
 class contact extends Component {
   download = () => {
     window.location.href =
-      "https://drive.google.com/u/0/uc?id=1y7M_9kNU9HNl1hemglcue3YaTXlDNsgI&export=download";
+      "https://drive.google.com/u/0/uc?id=15yp1Ct9ze1RhVuF_o1MLLL8K_NX-7_-y&export=download";
   };
 
   render() {
