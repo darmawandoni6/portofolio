@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Layout } from "antd";
 
-import Navbar from "../component/navbar";
+import Navbar from "../component/NavTop";
 // import "../css/landing.css";
 
 class certificate extends Component {
