@@ -1,8 +1,12 @@
-import React from "react";
-import Landing from "./pages/Landing";
+import React, { Fragment } from "react";
+import Container from "./pages/Container";
 
 const App = () => {
-  return <Landing />;
+  return (
+    <Fragment>
+      <Container />
+    </Fragment>
+  );
 };
 
 export default App;
