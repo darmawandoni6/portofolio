@@ -25,7 +25,7 @@ const NameProfile = () => {
                   style={{ position: "absolute", top: 0, right: 0 }}
                   onClick={() => {
                     window.open(
-                      "https://drive.google.com/file/d/1vwJQ1fkz64r_SyeA7AGd43_6Meg5_W-D/view",
+                      "https://drive.google.com/file/d/1sbBhtmbfnMVlJTfMqmZGvB79GlRNO9Kg/view?usp=sharing",
                       "_blank"
                     );
                   }}
